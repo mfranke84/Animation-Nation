@@ -4093,7 +4093,14 @@ let cards = [
     imageLink: "./Art/sameer786/radius.gif",
     author: "sameer",
     githubLink: "https://github.com/sameer8605",
-  }
+  },
+  {
+    artName: 'Questionsmark',
+    pageLink: "./Art/mfranke84/index.html",
+    imageLink: "./Art/sameer786/questionmarks.gif",
+    author: "mfranke84",
+    githubLink: "https://github.com/mfranke84",
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
