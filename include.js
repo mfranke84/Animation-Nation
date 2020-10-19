@@ -1,6 +1,6 @@
 let cards = [
   {
-    artName: 'Troll-Ball'
+    artName: 'Troll-Ball',
     pageLink: "./Art/ivantbv/index.html",
     imageLink: "./Art/ivantbv/troll-ball.gif",
     author: "ivantbv",
@@ -4058,7 +4058,7 @@ let cards = [
     pageLink: '/Art/Itried/animation.html',
     author: 'Harsha',
     githublink: 'https://github.com/HarshaKumar23'
-
+  },
   {
     artName: 'Snail Zoom',
     pageLink: './Art/rbhachu/index.html',
